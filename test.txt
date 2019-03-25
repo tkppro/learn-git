@@ -1,2 +1,2 @@
 test branch A
-update from branch A
+update branch A from branch B
