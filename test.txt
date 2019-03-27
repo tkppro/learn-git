@@ -1,0 +1,2 @@
+test branch A
+update branch A from branch B
